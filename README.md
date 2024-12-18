@@ -8,7 +8,7 @@ Repositório criado para o Desafio de Projeto
 
 - [Recursos de aprendizagem Git e GitHub - GitHub Docs](https://docs.github.com/pt/get-started/start-your-journey/git-and-github-learning-resources)
 
-- [Um Guia Básico para Iniciantes]([Git e GitHub: Um Guia Básico Iniciantes](https://www.brasilcode.com.br/git-e-github-um-guia-basico-iniciantes/))
+- [Um Guia Básico para Iniciantes](https://www.brasilcode.com.br/git-e-github-um-guia-basico-iniciantes/)
 
 - [FreeCodeCamp - Guia para Iniciantes e Desenvolvedores Experientes](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
 
